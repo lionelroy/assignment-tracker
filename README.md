@@ -12,6 +12,7 @@ Track your courses and assignments with this MVC application.
 ## Preview:
 
 <img src="readme-img/cell.png" alt="cell" width="450"/>
+<img src="readme-img/tablet.png" alt="tablet" width="600"/>
 <img src="readme-img/desktop.png" alt="desktop" width="750"/>
 
 Features:
