@@ -1,6 +1,6 @@
 # Assignment Tracker
 
-Track your courses and assignments with this MVC application built with PHP, mySQL and SASS.
+Track your courses and assignments with this MVC application.
 
 <h3>Technologies:</h3>
  <ul>
