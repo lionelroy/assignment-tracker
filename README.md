@@ -11,7 +11,7 @@ Track your courses and assignments with this MVC application built with PHP, myS
 
 ## Preview:
 
-<img src="readme-img/cell.png" alt="cell" width="250"/>
+<img src="readme-img/cell.png" alt="cell" width="450"/>
 <img src="readme-img/desktop.png" alt="desktop" width="750"/>
 
 Features:
@@ -22,7 +22,7 @@ Features:
 
 Learned:
 
-- Building a MySQL Database.
+- How to build a relational database with mySQL.
 - The Model-View-Controller / MVC.
 - Create the Database Connection with PDO.
 - PHP and mySQL Fundamentals
