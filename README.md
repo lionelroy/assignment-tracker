@@ -18,7 +18,7 @@ Features:
 
 - Create/Delete courses.
 - Add/Remove different assignments for each course categories you have created.
-- Data saved on mySQL database.
+- Data fetched from mySQL database.
 
 Learned:
 
